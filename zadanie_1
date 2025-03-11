@@ -2,9 +2,11 @@
 
 '''
 Importowanie modułu random
+W języku Python przewidziano moduł random generujący liczby pseudolosowe.
 Dokumentacja: https://docs.python.org/3/library/random.html
-import random
 '''
+
+import random
 
 # Tworzenie dwóch list
 lista1 = [5, 12, 50, 111]
